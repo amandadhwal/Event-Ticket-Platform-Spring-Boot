@@ -1,8 +1,3 @@
-Here’s a **clean, interview-ready project description** you can use in your **resume, GitHub, or portfolio** 👇
-(Intermediate level, backend-focused, simple language)
-
----
-
 ## 🎟️ Event Ticket Platform – Spring Boot (Intermediate Project)
 
 ### 💡 Project Overview
