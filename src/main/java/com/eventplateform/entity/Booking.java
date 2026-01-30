@@ -22,10 +22,12 @@ public class Booking {
     @ManyToOne
     private User user;
     @ManyToOne
-    @JoinColumn(name="event_id")
+    @JoinColumn(name = "event_id")
     private Event event;
-}
-enum BookingStatus{
-    CONFIRM,
-    CANCELLED
+
+//    enum BookingStatus {
+//        CONFIRM,
+//        CANCELLED
+//    }
+
 }
